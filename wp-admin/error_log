@@ -1,0 +1,121 @@
+[20-Feb-2015 20:37:28 UTC] WordPress database error Illegal mix of collations (utf8_unicode_ci,IMPLICIT) and (utf8_general_ci,IMPLICIT) for operation 'ifnull' for query   SELECT n.id, n.user_id, n.date_created, n.value, n.note_type, ifnull(u.display_name,n.user_name) as user_name, u.user_email
+                                                    FROM wp_rg_lead_notes n
+                                                    LEFT OUTER JOIN wp_users u ON n.user_id = u.id
+                                                    WHERE lead_id=11466 ORDER BY id made by do_action('forms_page_gf_entries'), call_user_func_array, GFForms::all_leads_page, GFEntryDetail::lead_detail_page, GFFormsModel::get_lead_notes
+[20-Feb-2015 20:47:22 UTC] WordPress database error Illegal mix of collations (utf8_unicode_ci,IMPLICIT) and (utf8_general_ci,IMPLICIT) for operation 'ifnull' for query   SELECT n.id, n.user_id, n.date_created, n.value, n.note_type, ifnull(u.display_name,n.user_name) as user_name, u.user_email
+                                                    FROM wp_rg_lead_notes n
+                                                    LEFT OUTER JOIN wp_users u ON n.user_id = u.id
+                                                    WHERE lead_id=12003 ORDER BY id made by do_action('forms_page_gf_entries'), call_user_func_array, GFForms::all_leads_page, GFEntryDetail::lead_detail_page, GFFormsModel::get_lead_notes
+[21-Feb-2015 16:51:13 UTC] WordPress database error Illegal mix of collations (utf8_unicode_ci,IMPLICIT) and (utf8_general_ci,IMPLICIT) for operation 'ifnull' for query   SELECT n.id, n.user_id, n.date_created, n.value, n.note_type, ifnull(u.display_name,n.user_name) as user_name, u.user_email
+                                                    FROM wp_rg_lead_notes n
+                                                    LEFT OUTER JOIN wp_users u ON n.user_id = u.id
+                                                    WHERE lead_id=11979 ORDER BY id made by do_action('forms_page_gf_entries'), call_user_func_array, GFForms::all_leads_page, GFEntryDetail::lead_detail_page, GFFormsModel::get_lead_notes
+[21-Feb-2015 16:52:18 UTC] WordPress database error Illegal mix of collations (utf8_unicode_ci,IMPLICIT) and (utf8_general_ci,IMPLICIT) for operation 'ifnull' for query   SELECT n.id, n.user_id, n.date_created, n.value, n.note_type, ifnull(u.display_name,n.user_name) as user_name, u.user_email
+                                                    FROM wp_rg_lead_notes n
+                                                    LEFT OUTER JOIN wp_users u ON n.user_id = u.id
+                                                    WHERE lead_id=11485 ORDER BY id made by do_action('forms_page_gf_entries'), call_user_func_array, GFForms::all_leads_page, GFEntryDetail::lead_detail_page, GFFormsModel::get_lead_notes
+[21-Feb-2015 16:52:26 UTC] WordPress database error Illegal mix of collations (utf8_unicode_ci,IMPLICIT) and (utf8_general_ci,IMPLICIT) for operation 'ifnull' for query   SELECT n.id, n.user_id, n.date_created, n.value, n.note_type, ifnull(u.display_name,n.user_name) as user_name, u.user_email
+                                                    FROM wp_rg_lead_notes n
+                                                    LEFT OUTER JOIN wp_users u ON n.user_id = u.id
+                                                    WHERE lead_id=9697 ORDER BY id made by do_action('forms_page_gf_entries'), call_user_func_array, GFForms::all_leads_page, GFEntryDetail::lead_detail_page, GFFormsModel::get_lead_notes
+[21-Feb-2015 16:52:39 UTC] WordPress database error Illegal mix of collations (utf8_unicode_ci,IMPLICIT) and (utf8_general_ci,IMPLICIT) for operation 'ifnull' for query   SELECT n.id, n.user_id, n.date_created, n.value, n.note_type, ifnull(u.display_name,n.user_name) as user_name, u.user_email
+                                                    FROM wp_rg_lead_notes n
+                                                    LEFT OUTER JOIN wp_users u ON n.user_id = u.id
+                                                    WHERE lead_id=7157 ORDER BY id made by do_action('forms_page_gf_entries'), call_user_func_array, GFForms::all_leads_page, GFEntryDetail::lead_detail_page, GFFormsModel::get_lead_notes
+[21-Feb-2015 16:53:51 UTC] WordPress database error Illegal mix of collations (utf8_unicode_ci,IMPLICIT) and (utf8_general_ci,IMPLICIT) for operation 'ifnull' for query   SELECT n.id, n.user_id, n.date_created, n.value, n.note_type, ifnull(u.display_name,n.user_name) as user_name, u.user_email
+                                                    FROM wp_rg_lead_notes n
+                                                    LEFT OUTER JOIN wp_users u ON n.user_id = u.id
+                                                    WHERE lead_id=3700 ORDER BY id made by do_action('forms_page_gf_entries'), call_user_func_array, GFForms::all_leads_page, GFEntryDetail::lead_detail_page, GFFormsModel::get_lead_notes
+[21-Feb-2015 16:58:11 UTC] WordPress database error Illegal mix of collations (utf8_unicode_ci,IMPLICIT) and (utf8_general_ci,IMPLICIT) for operation 'ifnull' for query   SELECT n.id, n.user_id, n.date_created, n.value, n.note_type, ifnull(u.display_name,n.user_name) as user_name, u.user_email
+                                                    FROM wp_rg_lead_notes n
+                                                    LEFT OUTER JOIN wp_users u ON n.user_id = u.id
+                                                    WHERE lead_id=5556 ORDER BY id made by do_action('forms_page_gf_entries'), call_user_func_array, GFForms::all_leads_page, GFEntryDetail::lead_detail_page, GFFormsModel::get_lead_notes
+[21-Feb-2015 16:59:33 UTC] WordPress database error Illegal mix of collations (utf8_unicode_ci,IMPLICIT) and (utf8_general_ci,IMPLICIT) for operation 'ifnull' for query   SELECT n.id, n.user_id, n.date_created, n.value, n.note_type, ifnull(u.display_name,n.user_name) as user_name, u.user_email
+                                                    FROM wp_rg_lead_notes n
+                                                    LEFT OUTER JOIN wp_users u ON n.user_id = u.id
+                                                    WHERE lead_id=5500 ORDER BY id made by do_action('forms_page_gf_entries'), call_user_func_array, GFForms::all_leads_page, GFEntryDetail::lead_detail_page, GFFormsModel::get_lead_notes
+[21-Feb-2015 17:00:16 UTC] WordPress database error Illegal mix of collations (utf8_unicode_ci,IMPLICIT) and (utf8_general_ci,IMPLICIT) for operation 'ifnull' for query   SELECT n.id, n.user_id, n.date_created, n.value, n.note_type, ifnull(u.display_name,n.user_name) as user_name, u.user_email
+                                                    FROM wp_rg_lead_notes n
+                                                    LEFT OUTER JOIN wp_users u ON n.user_id = u.id
+                                                    WHERE lead_id=8541 ORDER BY id made by do_action('forms_page_gf_entries'), call_user_func_array, GFForms::all_leads_page, GFEntryDetail::lead_detail_page, GFFormsModel::get_lead_notes
+[21-Feb-2015 17:00:23 UTC] WordPress database error Illegal mix of collations (utf8_unicode_ci,IMPLICIT) and (utf8_general_ci,IMPLICIT) for operation 'ifnull' for query   SELECT n.id, n.user_id, n.date_created, n.value, n.note_type, ifnull(u.display_name,n.user_name) as user_name, u.user_email
+                                                    FROM wp_rg_lead_notes n
+                                                    LEFT OUTER JOIN wp_users u ON n.user_id = u.id
+                                                    WHERE lead_id=10881 ORDER BY id made by do_action('forms_page_gf_entries'), call_user_func_array, GFForms::all_leads_page, GFEntryDetail::lead_detail_page, GFFormsModel::get_lead_notes
+[21-Feb-2015 17:01:06 UTC] WordPress database error Illegal mix of collations (utf8_unicode_ci,IMPLICIT) and (utf8_general_ci,IMPLICIT) for operation 'ifnull' for query   SELECT n.id, n.user_id, n.date_created, n.value, n.note_type, ifnull(u.display_name,n.user_name) as user_name, u.user_email
+                                                    FROM wp_rg_lead_notes n
+                                                    LEFT OUTER JOIN wp_users u ON n.user_id = u.id
+                                                    WHERE lead_id=5500 ORDER BY id made by do_action('forms_page_gf_entries'), call_user_func_array, GFForms::all_leads_page, GFEntryDetail::lead_detail_page, GFFormsModel::get_lead_notes
+[22-Feb-2015 01:20:05 UTC] WordPress database error Illegal mix of collations (utf8_unicode_ci,IMPLICIT) and (utf8_general_ci,IMPLICIT) for operation 'ifnull' for query   SELECT n.id, n.user_id, n.date_created, n.value, n.note_type, ifnull(u.display_name,n.user_name) as user_name, u.user_email
+                                                    FROM wp_rg_lead_notes n
+                                                    LEFT OUTER JOIN wp_users u ON n.user_id = u.id
+                                                    WHERE lead_id=12035 ORDER BY id made by do_action('forms_page_gf_entries'), call_user_func_array, GFForms::all_leads_page, GFEntryDetail::lead_detail_page, GFFormsModel::get_lead_notes
+[22-Feb-2015 01:21:25 UTC] WordPress database error Illegal mix of collations (utf8_unicode_ci,IMPLICIT) and (utf8_general_ci,IMPLICIT) for operation 'ifnull' for query   SELECT n.id, n.user_id, n.date_created, n.value, n.note_type, ifnull(u.display_name,n.user_name) as user_name, u.user_email
+                                                    FROM wp_rg_lead_notes n
+                                                    LEFT OUTER JOIN wp_users u ON n.user_id = u.id
+                                                    WHERE lead_id=12032 ORDER BY id made by do_action('forms_page_gf_entries'), call_user_func_array, GFForms::all_leads_page, GFEntryDetail::lead_detail_page, GFFormsModel::get_lead_notes
+[22-Feb-2015 04:27:35 UTC] WordPress database error Illegal mix of collations (utf8_unicode_ci,IMPLICIT) and (utf8_general_ci,IMPLICIT) for operation 'ifnull' for query   SELECT n.id, n.user_id, n.date_created, n.value, n.note_type, ifnull(u.display_name,n.user_name) as user_name, u.user_email
+                                                    FROM wp_rg_lead_notes n
+                                                    LEFT OUTER JOIN wp_users u ON n.user_id = u.id
+                                                    WHERE lead_id=12004 ORDER BY id made by do_action('forms_page_gf_entries'), call_user_func_array, GFForms::all_leads_page, GFEntryDetail::lead_detail_page, GFFormsModel::get_lead_notes
+[22-Feb-2015 04:27:48 UTC] WordPress database error Illegal mix of collations (utf8_unicode_ci,IMPLICIT) and (utf8_general_ci,IMPLICIT) for operation 'ifnull' for query   SELECT n.id, n.user_id, n.date_created, n.value, n.note_type, ifnull(u.display_name,n.user_name) as user_name, u.user_email
+                                                    FROM wp_rg_lead_notes n
+                                                    LEFT OUTER JOIN wp_users u ON n.user_id = u.id
+                                                    WHERE lead_id=12040 ORDER BY id made by do_action('forms_page_gf_entries'), call_user_func_array, GFForms::all_leads_page, GFEntryDetail::lead_detail_page, GFFormsModel::get_lead_notes
+[22-Feb-2015 04:28:00 UTC] WordPress database error Illegal mix of collations (utf8_unicode_ci,IMPLICIT) and (utf8_general_ci,IMPLICIT) for operation 'ifnull' for query   SELECT n.id, n.user_id, n.date_created, n.value, n.note_type, ifnull(u.display_name,n.user_name) as user_name, u.user_email
+                                                    FROM wp_rg_lead_notes n
+                                                    LEFT OUTER JOIN wp_users u ON n.user_id = u.id
+                                                    WHERE lead_id=12040 ORDER BY id made by do_action('forms_page_gf_entries'), call_user_func_array, GFForms::all_leads_page, GFEntryDetail::lead_detail_page, GFFormsModel::get_lead_notes
+[23-Feb-2015 19:01:27 UTC] WordPress database error Illegal mix of collations (utf8_unicode_ci,IMPLICIT) and (utf8_general_ci,IMPLICIT) for operation 'ifnull' for query   SELECT n.id, n.user_id, n.date_created, n.value, n.note_type, ifnull(u.display_name,n.user_name) as user_name, u.user_email
+                                                    FROM wp_rg_lead_notes n
+                                                    LEFT OUTER JOIN wp_users u ON n.user_id = u.id
+                                                    WHERE lead_id=12082 ORDER BY id made by do_action('forms_page_gf_entries'), call_user_func_array, GFForms::all_leads_page, GFEntryDetail::lead_detail_page, GFFormsModel::get_lead_notes
+[23-Feb-2015 19:02:22 UTC] WordPress database error Illegal mix of collations (utf8_unicode_ci,IMPLICIT) and (utf8_general_ci,IMPLICIT) for operation 'ifnull' for query   SELECT n.id, n.user_id, n.date_created, n.value, n.note_type, ifnull(u.display_name,n.user_name) as user_name, u.user_email
+                                                    FROM wp_rg_lead_notes n
+                                                    LEFT OUTER JOIN wp_users u ON n.user_id = u.id
+                                                    WHERE lead_id=12081 ORDER BY id made by do_action('forms_page_gf_entries'), call_user_func_array, GFForms::all_leads_page, GFEntryDetail::lead_detail_page, GFFormsModel::get_lead_notes
+[23-Feb-2015 19:02:33 UTC] WordPress database error Illegal mix of collations (utf8_unicode_ci,IMPLICIT) and (utf8_general_ci,IMPLICIT) for operation 'ifnull' for query   SELECT n.id, n.user_id, n.date_created, n.value, n.note_type, ifnull(u.display_name,n.user_name) as user_name, u.user_email
+                                                    FROM wp_rg_lead_notes n
+                                                    LEFT OUTER JOIN wp_users u ON n.user_id = u.id
+                                                    WHERE lead_id=12077 ORDER BY id made by do_action('forms_page_gf_entries'), call_user_func_array, GFForms::all_leads_page, GFEntryDetail::lead_detail_page, GFFormsModel::get_lead_notes
+[23-Feb-2015 19:20:58 UTC] WordPress database error Illegal mix of collations (utf8_unicode_ci,IMPLICIT) and (utf8_general_ci,IMPLICIT) for operation 'ifnull' for query   SELECT n.id, n.user_id, n.date_created, n.value, n.note_type, ifnull(u.display_name,n.user_name) as user_name, u.user_email
+                                                    FROM wp_rg_lead_notes n
+                                                    LEFT OUTER JOIN wp_users u ON n.user_id = u.id
+                                                    WHERE lead_id=12081 ORDER BY id made by do_action('forms_page_gf_entries'), call_user_func_array, GFForms::all_leads_page, GFEntryDetail::lead_detail_page, GFFormsModel::get_lead_notes
+[23-Feb-2015 19:25:56 UTC] WordPress database error Illegal mix of collations (utf8_unicode_ci,IMPLICIT) and (utf8_general_ci,IMPLICIT) for operation 'ifnull' for query   SELECT n.id, n.user_id, n.date_created, n.value, n.note_type, ifnull(u.display_name,n.user_name) as user_name, u.user_email
+                                                    FROM wp_rg_lead_notes n
+                                                    LEFT OUTER JOIN wp_users u ON n.user_id = u.id
+                                                    WHERE lead_id=7727 ORDER BY id made by do_action('forms_page_gf_entries'), call_user_func_array, GFForms::all_leads_page, GFEntryDetail::lead_detail_page, GFFormsModel::get_lead_notes
+[26-Feb-2015 17:35:18 UTC] WordPress database error Illegal mix of collations (utf8_unicode_ci,IMPLICIT) and (utf8_general_ci,IMPLICIT) for operation 'ifnull' for query   SELECT n.id, n.user_id, n.date_created, n.value, n.note_type, ifnull(u.display_name,n.user_name) as user_name, u.user_email
+                                                    FROM wp_rg_lead_notes n
+                                                    LEFT OUTER JOIN wp_users u ON n.user_id = u.id
+                                                    WHERE lead_id=11948 ORDER BY id made by do_action('forms1_page_gf_entries'), call_user_func_array, GFForms::all_leads_page, GFEntryDetail::lead_detail_page, GFFormsModel::get_lead_notes
+[08-Mar-2015 16:08:12 UTC] WordPress database error Illegal mix of collations (utf8_unicode_ci,IMPLICIT) and (utf8_general_ci,IMPLICIT) for operation 'ifnull' for query   SELECT n.id, n.user_id, n.date_created, n.value, n.note_type, ifnull(u.display_name,n.user_name) as user_name, u.user_email
+                                                    FROM wp_rg_lead_notes n
+                                                    LEFT OUTER JOIN wp_users u ON n.user_id = u.id
+                                                    WHERE lead_id=12412 ORDER BY id made by do_action('forms1_page_gf_entries'), call_user_func_array, GFForms::all_leads_page, GFEntryDetail::lead_detail_page, GFFormsModel::get_lead_notes
+[08-Mar-2015 16:08:43 UTC] WordPress database error Illegal mix of collations (utf8_unicode_ci,IMPLICIT) and (utf8_general_ci,IMPLICIT) for operation 'ifnull' for query   SELECT n.id, n.user_id, n.date_created, n.value, n.note_type, ifnull(u.display_name,n.user_name) as user_name, u.user_email
+                                                    FROM wp_rg_lead_notes n
+                                                    LEFT OUTER JOIN wp_users u ON n.user_id = u.id
+                                                    WHERE lead_id=12163 ORDER BY id made by do_action('forms1_page_gf_entries'), call_user_func_array, GFForms::all_leads_page, GFEntryDetail::lead_detail_page, GFFormsModel::get_lead_notes
+[19-Mar-2015 13:48:24 UTC] WordPress database error Illegal mix of collations (utf8_unicode_ci,IMPLICIT) and (utf8_general_ci,IMPLICIT) for operation 'ifnull' for query   SELECT n.id, n.user_id, n.date_created, n.value, n.note_type, ifnull(u.display_name,n.user_name) as user_name, u.user_email
+                                                    FROM wp_rg_lead_notes n
+                                                    LEFT OUTER JOIN wp_users u ON n.user_id = u.id
+                                                    WHERE lead_id=12629 ORDER BY id made by do_action('forms_page_gf_entries'), call_user_func_array, GFForms::all_leads_page, GFEntryDetail::lead_detail_page, GFFormsModel::get_lead_notes
+[19-Mar-2015 13:49:18 UTC] WordPress database error Illegal mix of collations (utf8_unicode_ci,IMPLICIT) and (utf8_general_ci,IMPLICIT) for operation 'ifnull' for query   SELECT n.id, n.user_id, n.date_created, n.value, n.note_type, ifnull(u.display_name,n.user_name) as user_name, u.user_email
+                                                    FROM wp_rg_lead_notes n
+                                                    LEFT OUTER JOIN wp_users u ON n.user_id = u.id
+                                                    WHERE lead_id=12520 ORDER BY id made by do_action('forms_page_gf_entries'), call_user_func_array, GFForms::all_leads_page, GFEntryDetail::lead_detail_page, GFFormsModel::get_lead_notes
+[19-Mar-2015 13:49:58 UTC] WordPress database error Illegal mix of collations (utf8_unicode_ci,IMPLICIT) and (utf8_general_ci,IMPLICIT) for operation 'ifnull' for query   SELECT n.id, n.user_id, n.date_created, n.value, n.note_type, ifnull(u.display_name,n.user_name) as user_name, u.user_email
+                                                    FROM wp_rg_lead_notes n
+                                                    LEFT OUTER JOIN wp_users u ON n.user_id = u.id
+                                                    WHERE lead_id=12629 ORDER BY id made by do_action('forms_page_gf_entries'), call_user_func_array, GFForms::all_leads_page, GFEntryDetail::lead_detail_page, GFFormsModel::get_lead_notes
+[19-Mar-2015 13:52:25 UTC] WordPress database error Illegal mix of collations (utf8_unicode_ci,IMPLICIT) and (utf8_general_ci,IMPLICIT) for operation 'ifnull' for query   SELECT n.id, n.user_id, n.date_created, n.value, n.note_type, ifnull(u.display_name,n.user_name) as user_name, u.user_email
+                                                    FROM wp_rg_lead_notes n
+                                                    LEFT OUTER JOIN wp_users u ON n.user_id = u.id
+                                                    WHERE lead_id=3574 ORDER BY id made by do_action('forms_page_gf_entries'), call_user_func_array, GFForms::all_leads_page, GFEntryDetail::lead_detail_page, GFFormsModel::get_lead_notes
+[10-Apr-2015 18:19:20 UTC] PHP Warning:  implode(): Invalid arguments passed in /home1/miked/public_html/wp-content/plugins/wp-super-cache/wp-cache.php on line 2815
+[10-Apr-2015 18:19:20 UTC] PHP Warning:  implode(): Invalid arguments passed in /home1/miked/public_html/wp-content/plugins/wp-super-cache/wp-cache.php on line 2817
+[04-Jun-2015 23:59:58 UTC] PHP Warning:  shell_exec(): Unable to execute 'whoami' in /home1/miked/public_html/wp-content/plugins/backupwordpress/functions/interface.php on line 130
+[05-Jun-2015 00:04:46 UTC] PHP Warning:  shell_exec(): Unable to execute 'whoami' in /home1/miked/public_html/wp-content/plugins/backupwordpress/functions/interface.php on line 130
+[05-Jun-2015 00:04:46 UTC] PHP Warning:  shell_exec(): Unable to execute 'groups' in /home1/miked/public_html/wp-content/plugins/backupwordpress/functions/interface.php on line 131

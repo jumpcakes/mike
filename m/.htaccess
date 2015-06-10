@@ -1,0 +1,4 @@
+# This will redirect a subdomain to another domain
+ RewriteEngine On
+ RewriteCond %{HTTP_HOST} ^m\.mikediamondservices\.com$ [NC]
+ RewriteRule ^(.*) http://www.mikediamondservices.com/$1 [L,R]

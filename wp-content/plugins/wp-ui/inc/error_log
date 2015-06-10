@@ -1,0 +1,13 @@
+[03-Apr-2014 18:24:34 America/Chicago] PHP Fatal error:  Class 'WP_Widget' not found in /home1/miked/public_html/wp-content/plugins/wp-ui/inc/widgets.php on line 16
+[03-Apr-2014 18:29:28 America/Chicago] PHP Fatal error:  Call to undefined function get_option() in /home1/miked/public_html/wp-content/plugins/wp-ui/inc/wpui_tour.php on line 23
+[03-Apr-2014 18:43:35 America/Chicago] PHP Fatal error:  Class 'WP_Widget' not found in /home1/miked/public_html/wp-content/plugins/wp-ui/inc/widgets-old.php on line 5
+[03-Apr-2014 18:44:26 America/Chicago] PHP Fatal error:  Call to undefined function get_option() in /home1/miked/public_html/wp-content/plugins/wp-ui/inc/wpui-helpers.php on line 16
+[03-Apr-2014 18:50:30 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home1/miked/public_html/wp-content/plugins/wp-ui/inc/class-imager.php on line 247
+[03-Apr-2014 18:54:51 America/Chicago] PHP Fatal error:  Call to undefined function add_shortcode() in /home1/miked/public_html/wp-content/plugins/wp-ui/inc/wpui-buttons.php on line 16
+[03-Apr-2014 18:59:30 America/Chicago] PHP Fatal error:  Call to undefined function wpui_get_skins_list() in /home1/miked/public_html/wp-content/plugins/wp-ui/inc/editor-dialogs.php on line 15
+[03-Apr-2014 19:14:35 America/Chicago] PHP Fatal error:  Call to undefined function language_attributes() in /home1/miked/public_html/wp-content/plugins/wp-ui/inc/wpui-styles-demo.php on line 16
+[04-Apr-2014 17:13:07 America/Chicago] PHP Fatal error:  Call to undefined function get_option() in /home1/miked/public_html/wp-content/plugins/wp-ui/inc/wpui-helpers.php on line 16
+[04-Apr-2014 19:18:54 America/Chicago] PHP Fatal error:  Class 'WP_Widget' not found in /home1/miked/public_html/wp-content/plugins/wp-ui/inc/widgets-old.php on line 5
+[04-Apr-2014 20:29:39 America/Chicago] PHP Fatal error:  Call to undefined function wpui_get_skins_list() in /home1/miked/public_html/wp-content/plugins/wp-ui/inc/editor-dialogs.php on line 15
+[04-Apr-2014 21:12:39 America/Chicago] PHP Fatal error:  Call to undefined function get_option() in /home1/miked/public_html/wp-content/plugins/wp-ui/inc/wpui_tour.php on line 23
+[04-Apr-2014 21:14:33 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home1/miked/public_html/wp-content/plugins/wp-ui/inc/class-imager.php on line 247
